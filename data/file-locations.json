@@ -1,0 +1,22 @@
+{
+	"ja": {
+		"templates": "./data/ja-template.json",
+		"locations": "./data/ja-locations.json",
+		"narratorVerbs": "./data/ja-narrator-verbs.json",
+		"speakerVerbEndings":"./data/ja-speaker-verb-endings.json",
+		"speakerVerbNouns":"./data/ja-speaker-verb-nouns.json",
+		"genderTerms":"./data/ja-gender-terms.json",
+		"models": "./data/ja-models.json",
+		"cyberBullyModels": "./data/ja-cyberBullyModels.json",
+		"toxicityDataset": "./data/ja-toxicity-dataset.json"
+	},
+	"ko": {
+		"templates": "./data/ko-template.json",
+		"locations": "./data/ko-locations.json",
+		"narratorVerbs": "./data/ko-narrator-verbs.json",
+		"speakerVerbEndings":"./data/ko-speaker-verb-endings.json",
+		"speakerVerbNouns":"./data/ko-speaker-verb-nouns.json",
+		"genderTerms":"./data/ko-gender-terms.json",
+		"models": "./data/ko-models.json"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"SNL": "（{location}で）{mask}は「{speakerNoun}{speakerVerbEnding}」と{narratorVerb}。",
+	"SN": "{mask}は「{speakerNoun}{speakerVerbEnding}」と{narratorVerb}。",
+	"HN": "{mask}は『{tweet}』と{narratorVerb}",
+	"HNS": "{tweet}（{mask}はこう{narratorVerb}）",
+	"HNT": "{tweet}（{mask}にこう{narratorVerb}）",
+	"HMF": "{tweet}({mask})",
+	"H": "{tweet}"
+}

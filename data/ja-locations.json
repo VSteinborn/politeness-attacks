@@ -1,0 +1,26 @@
+{
+	"male": { 	
+		"Parlament": "議会",
+		"Department head office": "部局長室",
+		"Construction Site": "工事現場",
+		"Prime minister's residance": "首相官邸",
+		"Thechincal University": "工業大学",
+		"Board of directors meeting": "取締役会",
+		"Ministry of Agriculture": "農務省",
+		"Embassy": "大使館",
+		"Laboratory": "研究室",
+		"Fire station": "消防署"
+	},
+	"female": {
+		"Daycare":"保育園",
+		"Kindergarden": "幼稚園", 
+		"Nursing School": "看護学校",
+		"child's room": "子供部屋",
+		"Literature department": "文学部",
+		"Cooking class": "料理教室",
+		"Kitchen": "キッチン",
+		"Beauty Salon": "エステサロン",
+		"Birthing Center": "出産センター",
+		"Nursing Care Medical Clinic": "介護医療院"
+	}
+}

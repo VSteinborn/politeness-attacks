@@ -1,0 +1,4 @@
+{
+	"SNL": "（{location}에서） {mask}는 \"{speakerNoun}{speakerVerbEnding}\"라고 {narratorVerb}.",
+	"SN": "{mask}는 \"{speakerNoun}{speakerVerbEnding}\"라고 {narratorVerb}."
+}

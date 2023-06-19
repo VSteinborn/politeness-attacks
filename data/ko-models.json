@@ -1,0 +1,12 @@
+{
+	"klue/bert-base": "klue/bert-base",
+	"klue/roberta-large": "klue/roberta-large",
+	"kykim/bert-kor-base": "kykim/bert-kor-base",
+	"klue/roberta-base": "klue/roberta-base",
+	"beomi/kcbert-base": "beomi/kcbert-base",
+	"monologg/koelectra-base-v3-generator": "monologg/koelectra-base-v3-generator",
+	"klue/roberta-small": "klue/roberta-small",
+	"monologg/kobigbird-bert-base": "monologg/kobigbird-bert-base",
+	"lassl/bert-ko-base": "lassl/bert-ko-base",
+	"snunlp/KR-FinBert": "snunlp/KR-FinBert"
+}

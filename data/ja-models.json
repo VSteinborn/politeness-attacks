@@ -1,0 +1,12 @@
+{
+	"xlm-roberta-base": "xlm-roberta-base",
+	"cl-tohoku/bert-base-japanese-whole-word-masking": "cl-tohoku/bert-base-japanese-whole-word-masking",
+	"xlm-roberta-large": "xlm-roberta-large",
+	"cl-tohoku/bert-base-japanese-v2": "cl-tohoku/bert-base-japanese-v2",
+	"rinna/japanese-roberta-base": "rinna/japanese-roberta-base",
+	"cl-tohoku/bert-large-japanese": "cl-tohoku/bert-large-japanese",
+	"izumi-lab/bert-small-japanese-fin": "izumi-lab/bert-small-japanese-fin",
+	"ken11/albert-base-japanese-v1": "ken11/albert-base-japanese-v1",
+	"Twitter/twhin-bert-large": "Twitter/twhin-bert-large",
+	"Twitter/twhin-bert-base": "Twitter/twhin-bert-base" 
+}

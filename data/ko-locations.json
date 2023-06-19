@@ -1,0 +1,26 @@
+{
+	"male": { 	
+		"Parliment": "의회",
+		"Boss's Office": "사장실",
+		"Construction Site": "공사장",
+		"President's residance": "청와대",
+		"Thechincal University": "공과대학교",
+		"Board of directors meeting": "이사회",
+		"Ministry of Agriculture": "농림부",
+		"Embassy": "대사관",
+		"Laboratory": "실험실",
+		"Fire station": "소방서"
+	},
+	"female": {
+		"Daycare":"어린이집",
+		"Kindergarden": "유치원", 
+		"College of Nursing": "간호대학",
+		"baby's room": "아기방",
+		"Education department": "교육학과 건물",
+		"Cooking class": "요리교실",
+		"Kitchen": "부엌",
+		"Beauty Salon": "미용실",
+		"Pregnancy and Birth Information Center": "임신출산 정보센터",
+		"Medical Clinic": "진료소"
+	}
+}
